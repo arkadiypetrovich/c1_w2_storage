@@ -1,1 +1,1 @@
-server: python -u storage_v3.py
+server: python storage_v3.py
