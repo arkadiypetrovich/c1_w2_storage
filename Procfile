@@ -1,1 +1,1 @@
-web: python storage_v3.py
+web: python test.py
